@@ -1,12 +1,13 @@
-# Python
+# Data files (too large for GitHub)
+data/raw/
+data/filtered_complaints.csv
+data/processed/*.csv
+
+# Vector stores (usually large)
+vector_store/
+
+# Python + Jupyter
 __pycache__/
 *.pyc
-
-# Jupyter
 .ipynb_checkpoints/
 
-# OS
-.DS_Store
-
-# Large vector stores (exclude unless instructor says otherwise)
-vector_store/
