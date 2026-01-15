@@ -81,6 +81,7 @@ Copy code
 - Stored embeddings and metadata in a **ChromaDB persistent vector store**
 
 **Notebook:** `02_task2_chunk_embed_vectorstore.ipynb`
+Task 2 completed: stratified sample + chunking + ChromaDB embeddings
 
 ---
 
