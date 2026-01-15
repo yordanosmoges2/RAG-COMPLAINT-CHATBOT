@@ -68,6 +68,7 @@ Copy code
 - Saved cleaned output as `data/filtered_complaints.csv`
 
 **Notebook:** `01_task1_eda_preprocessing.ipynb`
+Task 1 completed: EDA plots + cleaning + filtered dataset output.
 
 ---
 
