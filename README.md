@@ -106,6 +106,7 @@ Task 3 completed: RAG retriever, generator, and qualitative evaluation.
 
 **Notebook:** `04_task4_gradio_app.ipynb`  
 **App entry point:** `app.py`
+Task 4 completed: Gradio UI with answers and retrieved sources display.
 
 ---
 
