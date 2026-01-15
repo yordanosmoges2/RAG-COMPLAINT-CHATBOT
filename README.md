@@ -94,6 +94,8 @@ Task 2 completed: stratified sample + chunking + ChromaDB embeddings
 - Saved results to `task3_qualitative_evaluation.csv`
 
 **Notebook:** `03_task3_rag_pipeline_evaluation.ipynb`
+Task 3 completed: RAG retriever, generator, and qualitative evaluation.
+
 
 ---
 
