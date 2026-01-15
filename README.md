@@ -68,6 +68,7 @@ Copy code
 - Saved cleaned output as `data/filtered_complaints.csv`
 
 **Notebook:** `01_task1_eda_preprocessing.ipynb`
+Task 1 completed: EDA plots + cleaning + filtered dataset output.
 
 ---
 
@@ -81,6 +82,7 @@ Copy code
 - Stored embeddings and metadata in a **ChromaDB persistent vector store**
 
 **Notebook:** `02_task2_chunk_embed_vectorstore.ipynb`
+Task 2 completed: stratified sample + chunking + ChromaDB embeddings
 
 ---
 
